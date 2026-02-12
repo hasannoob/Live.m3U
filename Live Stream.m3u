@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 ,bein1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:-1 ,bein2 HD
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTINF:-1 ,bein3
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+#EXTINF:-1 ,eurosport 1 es
+https://ww.dooballfree.vip/live/eurosport1es/playlist.m3u8
+#EXTINF:-1 ,eurosport 2 es
+https://ww.dooballfree.vip/live/eurosport2es/playlist.m3u8
+#EXTINF:-1 ,nba tv
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT 1 HD
+http://4.team.ga:80/ch932/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4xhEF1CwgGKWMpZCblIwmhAM6h6-3ixJg5_3vSCBKyd
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT 2 HD
+http://4.team.ga:80/ch933/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1TQKkbCgtPpfrfEko94M9NyGNc3jvTAO84USjuW5Ebv
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT 3 HD
+http://4.team.ga:80/ch2489/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW7v4_aiEAwFZeHsH1M55vcg8nOwETVPlA-imsl2CznUR
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 1 HD
+http://4.team.ga:80/ch934/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5txrU_myCNil4h9_yFKtB9PapkLbvZfD471iQPwmnDn
+#EXTINF:-1 group-title="SPORT",POLSAT SPORT PREMIUM 2 HD
+http://4.team.ga:80/ch935/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW26B8d839HsDT37bdAqmqlMKLAn7X-rXHbuSuCCXc0_Y
+#EXTINF:-1 group-title="SPORT",PL: EUROSPORT 1 HD
+http://4.team.ga:80/ch891/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8GQ_-tWUEe-jbPsumnYwIMRhd4_dFKttC2kMr3bEdf2
+#EXTINF:-1 group-title="SPORT",PL: EUROSPORT 2 HD
+http://4.team.ga:80/ch892/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6C7eF4zOsEgl9KMoUjsM9d1OJJCz94hcSgp88Tek6aE
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 1 HD
+http://4.team.ga:80/ch887/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3a_oOsWkXKPwQFI5ErNDlfR0lrUMbbmNPBozEKPTqDY
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 2 HD
+http://4.team.ga:80/ch888/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW34rz2GrrN_K1KEG34ABV5R-PcVVKqqZtAvTnr-zqVbu
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 3 HD
+http://4.team.ga:80/ch889/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW87Q3fZgCAzemk3-iVvhGjq3hcEhJU5JDW9qDifrTk2T
+#EXTINF:-1 group-title="SPORT",ELEVEN SPORTS 4 HD
+http://4.team.ga:80/ch890/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWy5lJVIHLnKMdS9Fz48RuWKOPw19TK8IlQe9ZvEm3vEx
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT HD
+http://4.team.ga:80/ch872/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1c_8xKnTDTHgz6sv2rbuuUyI8JNso3gL5717WvxaXxQ
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 2 HD
+http://4.team.ga:80/ch873/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8qYxI2csEPa5HFLY4QhhWf_KtvTxmHNIsuNlkCmQDjL
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 3 HD
+http://4.team.ga:80/ch874/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3qekIwTZwTKcuvt_LUPOTOdouB3RXgPGkwfxPwunmd8
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 4 HD
+http://4.team.ga:80/ch875/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW_zZvUbjumWRreBKJKpu5mNakublYz_hP04xJE8PQH1l
+#EXTINF:-1 group-title="SPORT",CANAL+ SPORT 5 HD
+http://4.team.ga:80/ch920/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8VaiSXRKYLcfOulYbjOmuAABU4_D4VruyWbY2jIB1Q_
+#EXTINF:-1 ,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 ,GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 ,Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 ,Super Sport 1 HD
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:-1 ,Super Sport 2 HD
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:-1 ,Super Sport 3 HD
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1 ,Super Sport 4 HD
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:-1 ,M2 Sport
+http://dvr4.kablova.tv/M2/mpegts
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://btv.mx/posters/1723671411546.png",Premier Sports 4 (BR)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278934.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://btv.mx/posters/1723671411546.png",Premier Sports 7 (BR)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278937.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://btv.mx/posters/1723671411546.png",Premier Sports 8 (BR)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278938.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://btv.mx/posters/1723671411546.png",Premier Sports 1 (BR)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278939.m3u8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="https://btv.mx/posters/1723671411546.png",Premier Sports 3 (BR)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278941.m3u8
+#EXTINF:-1 group-title="canada" tvg-logo="https://btv.mx/posters/1721518638505.png",NBA TV (CA)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278952.m3u8
+#EXTINF:-1 group-title="canada" tvg-logo="https://btv.mx/posters/1721518638505.png",TSN Sports 1 (CA)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278955.m3u8
+#EXTINF:-1 group-title="canada" tvg-logo="https://btv.mx/posters/1721518638505.png",TSN Sports 2 (CA)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278956.m3u8
+#EXTINF:-1 group-title="Espana" tvg-logo="https://btv.mx/posters/1723560588392.png",DA-N 1 (ES)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278822.m3u8
+#EXTINF:-1 group-title="Espana" tvg-logo="https://btv.mx/posters/1723560588392.png",DA-N 2 HD (ES)(P)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278824.m3u8
+#EXTINF:-1 group-title="Sin Categoría",TSN 2 (US)(i)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/161287.m3u8
+#EXTINF:-1 group-title="Sin Categoría",TSN 3 (US)(i)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/161288.m3u8
+#EXTINF:-1 group-title="Sin Categoría" tvg-logo="https://btv.mx/posters/1727314296141.png",Bein Sports 7 (US)(p)"
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279418.m3u8
+#EXTINF:-1 group-title="Sin Categoría" tvg-logo="https://btv.mx/posters/1727312027129.png",Bein Sports Xtra (US)(p)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279421.m3u8
+#EXTINF:-1 group-title="Sin Categoría",ESPN (US)(p)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279424.m3u8
+#EXTINF:-1 group-title="Sin Categoría",ESPN Deportes (US)(p)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279426.m3u8
+#EXTINF:-1 group-title="Sin Categoría",ESPNews (US)(p)
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279428.m3u8
+#EXTINF:-1 ,CZ: ONEPLAY1 T3
+http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
+#EXTINF:-1 ,CZ: ONEPLAY2 T2
+http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+#EXTINF:-1 ,CZ: ONEPLAY3 T3
+http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
+#EXTINF:-1 ,CZ: EUROSPORT22
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:-1 ,CZ: FI V Sport 1 Suomi
+http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
+#EXTINF:-1 ,CZ: NO V Sport Vinter
+http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass

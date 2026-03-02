@@ -1,1 +1,52 @@
 
+#EXTM3U
+#EXTINF:-1,Animal Planet
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=309466&extension=m3u8
+
+#EXTINF:-1,Rock Entertainment (Server 1)
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1776182&extension=m3u8
+
+#EXTINF:-1,Euro max2
+http://195.128.27.141/play/live.php?mac=00:1A:79:24:1B:18&stream=1776144&extension=m3u8
+
+#EXTINF:-1,Cinemax
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776056&extension=m3u8
+
+#EXTINF:-1,Discovery
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776024&extension=m3u8
+
+#EXTINF:-1,HBO Hits (Server 1)
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776088&extension=m3u8
+
+#EXTINF:-1,HBO Hits (Server 2)
+https://love.pifipa2974.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8
+
+#EXTINF:-1,HBO Signature (Server 1)
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776092&extension=m3u8
+
+#EXTINF:-1,HBO Signature (Server 2)
+https://love.pifipa2974.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8
+
+#EXTINF:-1,HBO Family (Server 1)
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776089&extension=m3u8
+
+#EXTINF:-1,HBO Family (Server 2)
+https://love.pifipa2974.workers.dev/lx-origin/th-hbofamily_720/chunks.m3u8
+
+#EXTINF:-1,HBO (Server 1)
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776094&extension=m3u8
+
+#EXTINF:-1,HBO (Server 2)
+https://love.pifipa2974.workers.dev/lx-origin/th-hbo_720/chunks.m3u8
+
+#EXTINF:-1,WB (Server 1)
+https://love.pifipa2974.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8
+
+#EXTINF:-1,WB (Server 2)
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776075&extension=m3u8
+
+#EXTINF:-1,Rock Action
+https://love.pifipa2974.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
+
+#EXTINF:-1,Rock Entertainment (Server 2)
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=1776183&extension=m3u8
